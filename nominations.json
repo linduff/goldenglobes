@@ -1,0 +1,586 @@
+[
+	{
+		"title": "Anatomy of a Fall",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/ANATOMY-OF-A-FALL-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture – Non-English Language",
+				"nominees": []
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Drama",
+				"nominees": ["Sandra Huller"]
+			},
+			{
+				"category": "Best Motion Picture - Drama",
+				"nominees": []
+			},
+			{
+				"category": "Best Screenplay - Motion Picture",
+				"nominees": ["Justine Triet", "Arthur Harari"]
+			}
+		]
+	},
+	{
+		"title": "Killers of the Flower Moon",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/KILLERS-OF-THE-FLOWER-MOON-Key-Art.png",
+		"nominations": [
+			{
+				"category": "Best Screenplay - Motion Picture",
+				"nominees": ["Eric Roth", "Martin Scorsese"]
+			},
+			{
+				"category": "Best Original Score - Motion Picture",
+				"nominees": ["Robbie Robertson"]
+			},
+			{
+				"category": "Best Motion Picture - Drama",
+				"nominees": []
+			},
+			{
+				"category": "Best Director - Motion Picture",
+				"nominees": ["Martin Scorsese"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Robert De Niro"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Drama",
+				"nominees": ["Leonardo Dicaprio"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Drama",
+				"nominees": ["Lily Gladstone"]
+			}
+		]
+	},
+	{
+		"title": "Maestro",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/MAESTRO-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Drama",
+				"nominees": []
+			},
+			{
+				"category": "Best Director - Motion Picture",
+				"nominees": ["Bradley Cooper"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Drama",
+				"nominees": ["Bradley Cooper"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Drama",
+				"nominees": ["Carey Mulligan"]
+			}
+		]
+	},
+	{
+		"title": "Oppenheimer",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/OPPENHEIMER-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Robert Downey Jr."]
+			},
+			{
+				"category": "Best Director - Motion Picture",
+				"nominees": ["Christopher Nolan"]
+			},
+			{
+				"category": "Best Screenplay - Motion Picture",
+				"nominees": ["Christopher Nolan"]
+			},
+			{
+				"category": "Best Original Score - Motion Picture",
+				"nominees": ["Ludwig Goransson"]
+			},
+			{
+				"category": "Best Motion Picture - Drama",
+				"nominees": []
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Drama",
+				"nominees": ["Cillian Murphy"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Emily Blunt"]
+			}
+		]
+	},
+	{
+		"title": "Past Lives",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/PAST-LIVES-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Screenplay - Motion Picture",
+				"nominees": ["Celine Song"]
+			},
+			{
+				"category": "Best Motion Picture – Non-English Language",
+				"nominees": []
+			},
+			{
+				"category": "Best Director - Motion Picture",
+				"nominees": ["Celine Song"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Drama",
+				"nominees": ["Greta Lee"]
+			},
+			{
+				"category": "Best Motion Picture - Drama",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "The Zone of Interest",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/ZONE-OF-INTEREST-THE-Key-Art-1.jpg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture – Non-English Language",
+				"nominees": []
+			},
+			{
+				"category": "Best Original Score - Motion Picture",
+				"nominees": ["Mica Levi"]
+			},
+			{
+				"category": "Best Motion Picture - Drama",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Air",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/AIR-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Musical or Comedy",
+				"nominees": []
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Matt Damon"]
+			}
+		]
+	},
+	{
+		"title": "American Fiction",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/AMERICAN-FICTION-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Jeffrey Wright"]
+			},
+			{
+				"category": "Best Motion Picture - Musical or Comedy",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Barbie",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/BARBIE-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			},
+			{
+				"category": "Best Screenplay - Motion Picture",
+				"nominees": ["Greta Gerwig", "Noah Baumbach"]
+			},
+			{
+				"category": "Best Director - Motion Picture",
+				"nominees": ["Greta Gerwig"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Ryan Gosling"]
+			},
+			{
+				"category": "Best Motion Picture - Musical or Comedy",
+				"nominees": []
+			},
+			{
+				"category": "Best Original Song - Motion Picture",
+				"nominees": ["What Was I Made For?", "Billie Eilish", "Fineas O'Connell"]
+			},
+			{
+				"category": "Best Original Song - Motion Picture",
+				"nominees": ["I'm Just Ken", "Mark Ronson", "Andrew Wyatt"]
+			},
+			{
+				"category": "Best Original Song - Motion Picture",
+				"nominees": ["Dance the Night", "Mark Ronson", "Andrew Wyatt", "Dua Lipa", "Caroline Ailin"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Margot Robbie"]
+			}
+		]
+	},
+	{
+		"title": "The Holdovers",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/HOLDOVERS-THE-Key-Art.png",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Musical or Comedy",
+				"nominees": []
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Paul Giamatti"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Da'vine Joy Randolph"]
+			}
+		]
+	},
+	{
+		"title": "May December",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/MAY-DECEMBER-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Charles Melton"]
+			},
+			{
+				"category": "Best Motion Picture - Musical or Comedy",
+				"nominees": []
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Julianne Moore"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Natalie Portman"]
+			}
+		]
+	},
+	{
+		"title": "Poor Things",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/POOR-THINGS-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Screenplay - Motion Picture",
+				"nominees": ["Tony McNamara"]
+			},
+			{
+				"category": "Best Director - Motion Picture",
+				"nominees": ["Yorgos Lanthimos"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Willem Dafoe"]
+			},
+			{
+				"category": "Best Motion Picture - Musical or Comedy",
+				"nominees": []
+			},
+			{
+				"category": "Best Original Score - Motion Picture",
+				"nominees": ["Jerskin Fendrix"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Emma Stone"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Mark Ruffalo"]
+			}
+		]
+	},
+	{
+		"title": "The Boy and the Heron",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/BOY-AND-THE-HERON-THE-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Animated",
+				"nominees": []
+			},
+			{
+				"category": "Best Original Score - Motion Picture",
+				"nominees": ["Joe Hisaishi"]
+			}
+		]
+	},
+	{
+		"title": "Elemental",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/elemental.jpeg?resize=682,1024",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Animated",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Spider-Man: Across the Spider-Verse",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/spiderman-across-the-spiderverse.jpeg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			},
+			{
+				"category": "Best Motion Picture - Animated",
+				"nominees": []
+			},
+			{
+				"category": "Best Original Score - Motion Picture",
+				"nominees": ["Daniel Pemberton"]
+			}
+		]
+	},
+	{
+		"title": "Suzume",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/SUZUME-Key-Art.png",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Animated",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "The Super Mario Bros. Movie",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/11/the-super-mario-bros.-movie-2023_8.jpg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			},
+			{
+				"category": "Best Motion Picture - Animated",
+				"nominees": []
+			},
+			{
+				"category": "Best Original Song - Motion Picture",
+				"nominees": ["Peaches", "Jack Black", "Aaron Horvath", "Michael Jelenic", "Eric Osmond", "John Spiker"]
+			}
+		]
+	},
+	{
+		"title": "Wish",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/wish-2023.jpeg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture - Animated",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Guardians of the Galaxy Vol. 3",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/guardians-vol3.jpeg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "John Wick: Chapter 4",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/JOHN-WICK_-CHAPTER-4-Key-Art-1.jpg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Mission: Impossible – Dead Reckoning Part 1",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/Mission-Impossible-Dead-Reckoning-Part-1.jpeg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Taylor Swift: The Eras Tour",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/Taylor-Swift-The-Eras-Tour.jpeg",
+		"nominations": [
+			{
+				"category": "Cinematic and Box Office Achievement",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Fallen Leaves",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/Fallen-Leaves.jpeg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Alma Poysti"]
+			},
+			{
+				"category": "Best Motion Picture – Non-English Language",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Io Capitano",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/Io-Capitano.jpeg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture – Non-English Language",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Society of the Snow",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/SOCIETY-OF-SNOW-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Motion Picture – Non-English Language",
+				"nominees": []
+			}
+		]
+	},
+	{
+		"title": "Nyad",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/NYAD-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Drama",
+				"nominees": ["Annette Bening"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Jodie Foster"]
+			}
+		]
+	},
+	{
+		"title": "Priscilla",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/PRISCILLA-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Drama",
+				"nominees": ["Cailee Spaeny"]
+			}
+		]
+	},
+	{
+		"title": "All of Us Strangers",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/ALL-OF-US-STRANGERS-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Drama",
+				"nominees": ["Andrew Scott"]
+			}
+		]
+	},
+	{
+		"title": "Saltburn",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/SALTBURN-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Drama",
+				"nominees": ["Barry Keoghan"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Rosamund Pike"]
+			}
+		]
+	},
+	{
+		"title": "Rustin",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/RUSTIN-Key-Art-1.jpg",
+		"nominations": [
+			{
+				"category": "Best Original Song - Motion Picture",
+				"nominees": ["Lenny Kravitz"]
+			},
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Drama",
+				"nominees": ["Colman Domingo"]
+			}
+		]
+	},
+	{
+		"title": "The Color Purple",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/The-Color-Purple-2023.jpeg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Female Actor in a Supporting Role in any Motion Picture",
+				"nominees": ["Danielle Brooks"]
+			},
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Fantasia Barrino"]
+			}
+		]
+	},
+	{
+		"title": "No Hard Feelings",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/NO-HARD-FEELINGS-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Female Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Jennifer Lawrence"]
+			}
+		]
+	},
+	{
+		"title": "Beau is Afraid",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/BEAU-IS-AFRAID-Key-Art.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Joaquin Phoenix"]
+			}
+		]
+	},
+	{
+		"title": "Dream Scenario",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/DREAM-SCENARIO-Key-Art-1.jpg",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Nicholas Cage"]
+			}
+		]
+	},
+	{
+		"title": "Wonka",
+		"poster": "",
+		"nominations": [
+			{
+				"category": "Best Performance by a Male Actor in a Motion Picture – Musical or Comedy",
+				"nominees": ["Timothee Chalamet"]
+			}
+		]
+	},
+	{
+		"title": "She Came to Me",
+		"poster": "https://goldenglobes.com/wp-content/uploads/2023/12/SHE-CAME-TO-ME-Key-Art.jpg?resize=691,1024",
+		"nominations": [
+			{
+				"category": "Best Original Song - Motion Picture",
+				"nominees": ["Addicted to Romance", "Bruce Springsteen"]
+			}
+		]
+	}
+]
